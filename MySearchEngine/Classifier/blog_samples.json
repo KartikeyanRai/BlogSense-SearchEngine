@@ -1,0 +1,255 @@
+[
+  {"title": "Why I Quit My High Paying Job for Art", "content": "I used to work 60-hour weeks until burnout hit me hard...", "label": 1},
+  {"title": "15 Best Productivity Apps for 2025", "content": "Boost your efficiency with these top-rated apps...", "label": 0},
+  {
+    "title": "How I Built My Blog with Gatsby",
+    "content": "Step by step, here's how I migrated from WordPress to GatsbyJS...",
+    "label": 1
+  },
+  {
+    "title": "Why I Chose React over Vue",
+    "content": "I tried both for side projects and found React better for my style...",
+    "label": 1
+  },
+  {
+    "title": "Learning Rust: My Struggles and Wins",
+    "content": "Sharing my experience picking up Rust as a JS developer...",
+    "label": 1
+  },
+  {
+    "title": "Debugging a Memory Leak in Node.js",
+    "content": "A real issue I faced at work and how I solved it...",
+    "label": 1
+  },
+  {
+    "title": "What Freelancing Has Taught Me About Clients",
+    "content": "Reflecting on three years of freelancing for startups...",
+    "label": 1
+  },
+  {
+    "title": "Implementing Dark Mode in My Site",
+    "content": "Documenting the CSS variables approach I used...",
+    "label": 1
+  },
+  {
+    "title": "My Journey into Machine Learning",
+    "content": "I didn't have a CS degree, but here's how I started...",
+    "label": 1
+  },
+  {
+    "title": "How I Designed My Portfolio Page",
+    "content": "Breaking down my design decisions and tools I used...",
+    "label": 1
+  },
+  {
+    "title": "Mistakes I Made with Redux",
+    "content": "These patterns bit me hard before I learned better...",
+    "label": 1
+  },
+  {
+    "title": "What I Learned Pair Programming at My Job",
+    "content": "I was skeptical at first but it improved my skills...",
+    "label": 1
+  },
+  {
+    "title": "Building a Chrome Extension for Fun",
+    "content": "A weekend project that taught me about the Manifest API...",
+    "label": 1
+  },
+  {
+    "title": "How I Migrated from jQuery to Vanilla JS",
+    "content": "Documenting the pain points and solutions I found...",
+    "label": 1
+  },
+  
+  
+  
+  {
+    "title": "10 Things I Learned Bootstrapping My Startup",
+    "content": "From sleepless nights to my first paying customer, here are my top lessons...",
+    "label": 1
+  },
+  {
+    "title": "Why I Chose Remote Work and How You Can Too",
+    "content": "I explain my reasons and also share practical tips to help you make the shift...",
+    "label": 1
+  },
+  {
+    "title": "My Journey to Becoming a Product Manager",
+    "content": "This post details how I transitioned careers and what I wish I knew...",
+    "label": 1
+  },
+  {
+    "title": "Ultimate Guide to Remote Work in 2025",
+    "content": "Discover the best tools, practices, and tips for working remotely...",
+    "label": 0
+  },
+  {
+    "title": "How I Doubled My Income as a Freelancer",
+    "content": "Here's what worked for me, plus some resources you can use...",
+    "label": 1
+  },
+  {
+    "title": "5 Strategies That Helped Me Grow My Blog",
+    "content": "I mixed personal experience with proven SEO methods to boost traffic...",
+    "label": 1
+  },
+  {
+    "title": "Complete Beginner's Guide to Freelancing",
+    "content": "Everything you need to know to get started and succeed as a freelancer...",
+    "label": 0
+  },
+  {
+    "title": "Lessons from My First 100 Days as a Manager",
+    "content": "This is what surprised me the most about managing people...",
+    "label": 1
+  },
+  {
+    "title": "Top 25 Manager Resources to Level Up Your Skills",
+    "content": "Whether you're new or experienced, these resources can help...",
+    "label": 0
+  },
+  {
+    "title": "How Side Projects Helped Me Land Interviews",
+    "content": "Sharing my personal journey plus some ideas to inspire you...",
+    "label": 1
+  },
+  {
+    "title": "The Complete Side Project Guide",
+    "content": "Learn how to pick, build, and promote your side project...",
+    "label": 0
+  },
+  {
+    "title": "10 Mistakes I Made Learning to Code",
+    "content": "If I could start over, I would avoid these pitfalls...",
+    "label": 1
+  },
+  {
+    "title": "Learning to Code: 20 Tips for Beginners",
+    "content": "Improve your coding journey with these practical tips...",
+    "label": 0
+  },
+  {
+    "title": "What I Wish I Knew Before My First Hackathon",
+    "content": "A mix of personal experience and advice for newcomers...",
+    "label": 1
+  },
+  {
+    "title": "Hackathon Success: A Complete Playbook",
+    "content": "Maximize your impact with this proven strategy guide...",
+    "label": 0
+  },
+  {
+    "title": "From Burnout to Balance: My Story",
+    "content": "I share how I reached a breaking point and found a way out...",
+    "label": 1
+  },
+  {
+    "title": "Avoiding Burnout: 15 Expert-Backed Tips",
+    "content": "Stay productive and healthy with this advice...",
+    "label": 0
+  },
+  {
+    "title": "How I Got My First 1000 Subscribers",
+    "content": "This is exactly what I did to grow my audience from zero...",
+    "label": 1
+  },
+  {
+    "title": "The Complete Guide to Building Your Audience",
+    "content": "Step by step instructions to grow your followers...",
+    "label": 0
+  },
+  {
+    "title": "My Approach to Learning New Skills Quickly",
+    "content": "I developed a framework that works for me and might help you too...",
+    "label": 1
+  },
+  {
+    "title": "Skill Mastery: 25 Methods to Learn Faster",
+    "content": "Accelerate your learning with these evidence-based techniques...",
+    "label": 0
+  },
+  {
+    "title": "The 7 Habits That Changed My Career",
+    "content": "Personal reflections on what made the biggest difference...",
+    "label": 1
+  },
+  {
+    "title": "How to Build Habits: The Definitive Guide",
+    "content": "Research-backed strategies to create lasting change...",
+    "label": 0
+  },
+  {
+    "title": "What My First Year of Parenthood Taught Me",
+    "content": "This is an honest account of joys and struggles...",
+    "label": 1
+  },
+  {
+    "title": "Parenting: 50 Tips Every New Parent Needs",
+    "content": "Navigate the challenges of parenting with this list...",
+    "label": 0
+  },
+  {
+    "title": "The Ultimate Guide to GatsbyJS",
+    "content": "Learn everything you need to know about Gatsby with our guide...",
+    "label": 0
+  },
+  {
+    "title": "Top 20 React Libraries in 2025",
+    "content": "Upgrade your toolkit with these must-have libraries...",
+    "label": 0
+  },
+  {
+    "title": "Complete Rust Tutorial for Beginners",
+    "content": "From installation to advanced features, we cover it all...",
+    "label": 0
+  },
+  {
+    "title": "Best Practices for Node.js Developers",
+    "content": "Ensure your apps are production ready with these tips...",
+    "label": 0
+  },
+  {
+    "title": "How to Get Freelance Clients in 2025",
+    "content": "Increase your client base with these proven strategies...",
+    "label": 0
+  },
+  {
+    "title": "CSS Tricks: 30 Must-Know Techniques",
+    "content": "Take your stylesheets to the next level...",
+    "label": 0
+  },
+  {
+    "title": "Machine Learning 101: Complete Guide",
+    "content": "Master the basics of ML with our structured tutorial...",
+    "label": 0
+  },
+  {
+    "title": "How to Build Your Portfolio in 2025",
+    "content": "Attract more clients and employers with these design tips...",
+    "label": 0
+  },
+  {
+    "title": "Redux Patterns Every Developer Should Know",
+    "content": "Write better Redux code with these patterns...",
+    "label": 0
+  },
+  {
+    "title": "Pair Programming: Benefits and Best Practices",
+    "content": "Improve your team's workflow with these tips...",
+    "label": 0
+  },
+  {
+    "title": "Chrome Extension Development Guide",
+    "content": "Build powerful extensions with this complete tutorial...",
+    "label": 0
+  },
+  {
+    "title": "Vanilla JS vs jQuery: Which Should You Choose?",
+    "content": "We compare the two to help you decide...",
+    "label": 0
+  }
+
+
+
+]
